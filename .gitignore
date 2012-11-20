@@ -12,3 +12,4 @@ etc/logrotate.conf
 include/
 lib/
 local/
+local.cfg
